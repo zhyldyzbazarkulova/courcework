@@ -5,10 +5,17 @@ body{
   font-family: 'Poppins',sans-serif ;
   font-size: 20px;
   margin: 0;
+  color: #486958;
 }
+.container{
+  max-width:2601px ;
+  margin: 0 auto;
+}
+
 h1,h2,h3,h4,h5,h6{
   font-family: 'Poppins',sans-serif ;
   font-weight: 800;
+  color: black;
 }
 h1{
   font-size: 70px;
