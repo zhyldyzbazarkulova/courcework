@@ -12,6 +12,37 @@ body{
   margin: 0 auto;
 }
 
+.i-1 {
+  padding-left: 100px;
+}
+.a-1 {
+  color: black;
+  padding-left: 200px;
+  text-decoration: none;
+}
+.a-2 {
+  color: black;
+  padding-left: 110px;
+  text-decoration: none;
+}
+.a-3 {
+  color: black;
+  padding-left: 110px;
+  text-decoration: none;
+}
+.a-4 {
+  color: black;
+  padding-left: 110px;
+  text-decoration: none;
+}
+button {
+  margin-left: 180px;
+  padding: 15px 55px;
+  color: white;
+  background-color: rgb(90, 168, 168);
+  border-radius: 10px;
+}
+
 h1,h2,h3,h4,h5,h6{
   font-family: 'Poppins',sans-serif ;
   font-weight: 800;
@@ -19,6 +50,7 @@ h1,h2,h3,h4,h5,h6{
 }
 h1{
   font-size: 70px;
+  margin-left: 100px;
 }
 h2{
  font-size: 40px ;
@@ -34,4 +66,39 @@ h5{
 }
 h6{
   font-size: 20px;
+}
+
+p{
+  padding-left:100px ;
+  
+}
+.b-1 {
+  margin-left: 100px;
+  padding: 15px 55px;
+  color: white;
+  background-color: rgb(90, 168, 168);
+  border-radius: 10px;
+  border-end-start-radius: unset;
+}
+.i-3 {
+  position: absolute;
+  width: 500px;
+  height: 523px;
+  left: 950.5px;
+  top: 180.15px;
+  background-color: rgb(157, 210, 210);
+  border-radius: 50px;
+  border-end-end-radius: unset;
+}
+.hh-1{
+  margin-left: 550px;
+
+}
+.pp-1{
+  margin-left: 500px;
+
+}
+.pp-2{
+  margin-left: 580px;
+
 }
