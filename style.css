@@ -287,15 +287,9 @@ h3 {
   padding-bottom: 40px;
 }
 
-
-
-
 .card .card-image-5 {
-
   margin-left: 150px;
   height: 500px;
-
-
 }
 .card .card-content-5 {
   background-color: #c5ebe0;
@@ -309,20 +303,54 @@ h3 {
   width: 40%;
 }
 
-#hhhh-1{
-padding-left: 20px;
+#hhhh-1 {
+  padding-left: 20px;
 }
-#p-11{
+#p-11 {
   margin-left: 20px;
+}
+#hh-1 {
+  color: #467567;
+  width: 10px;
+  padding-top: ;
+}
+#hhh-2 {
+  color: #467567;
+  width: 50px;
+  padding-left: 190px;
+  margin-top: -200px;
+}
 
+#hhh-3 {
+  color: #467567;
+  width: 15px;
+  padding-left: 490px;
+  margin-top: -250px;
 
 }
-#hh-1{
-  color:#467567;
+
+input {
+  border: none;
+  border-bottom: 1px solid black;
+  width:800px ;
+  margin-left: 40px;
+  padding: 10px 10px;
 }
+.footer-card{
+  border: 1px solid green;
+ width: 920px;
+ height: 300px;
+  margin-left: 600px;
+  margin-top: -250px;
 
-
-input{
-  padding: 100px;
-  padding-left: 150px;
+}
+label{
+  padding-left: 45px;
+ 
+}
+.description{
+  padding-left :45px;
+}
+.button{
+margin-left: 670px;
 }
